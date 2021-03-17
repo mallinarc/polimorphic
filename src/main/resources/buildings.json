@@ -1,0 +1,28 @@
+{
+	"common": {
+			"key": "dog",
+			"section": "Spike"
+	},
+    "message": "Test",
+    "cod": "Ok",
+	"name": "Shambo",
+	"type": "residential",
+    "city": {
+        "name": "Ashburn",
+        "buildings": [
+            {
+                "streetName": "Spike",
+                "number": 111222,
+                "noOfRooms": 3,
+                "type": "Ranch"
+            },
+            {
+                "streetName": "Braeb",
+                "number": 4451545,
+                "noOfRooms": 5,
+                "type": "Townhome"
+            }
+        ]
+
+    }	
+}
