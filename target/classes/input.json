@@ -1,25 +1,25 @@
 {
-	"common": {
-			"key": "dog",
-			"section": "Spike"
-	},
-	"animals": [
-		{
-			"type": "dog",
-			"name": "Spike",
-			"breed": "mutt",
-			"leashColor": "red"
-		},
-		{
-			"type": "dog",
-			"name": "Champ",
-			"breed": "Pamorian",
-			"leashColor": "white"
-		},
-		{
-			"type": "cat",
-			"name": "Fluffy",
-			"favoriteToy": "spider ring"
-		}
-	]
+    "name": "Ashburn",
+    "zoo": {
+        "common": {
+            "key": "dog",
+            "section": "Spike"
+        },
+        "animals": [{
+                "type": "dog",
+                "name": "Spike",
+                "breed": "mutt",
+                "leashColor": "red"
+            }, {
+                "type": "dog",
+                "name": "Champ",
+                "breed": "Pamorian",
+                "leashColor": "white"
+            }, {
+                "type": "cat",
+                "name": "Fluffy",
+                "favoriteToy": "spider ring"
+            }
+        ]
+    }
 }
